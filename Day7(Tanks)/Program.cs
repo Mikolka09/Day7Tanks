@@ -14,7 +14,7 @@ namespace Day7_Tanks_
         {
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.ForegroundColor = ConsoleColor.White;
-
+             
      
 
 
